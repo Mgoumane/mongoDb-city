@@ -1,0 +1,9 @@
+## Instructions
+
+Vous etes en charge du recensement en France... Gros travail, beaucoup de données 😕 Du coup vous vous lancez dans la création d'une base de données
+
+1. Affichez la population totale par département
+2. Affichez la population moyenne par département
+3. Triez ces infos par population
+4. Comptez le nombre de ville par département
+5. Recuperer les mêmes infos mais uniquement pour les viles commencant par un P
